@@ -1,0 +1,22 @@
+.app {
+  text-align: center;
+}
+.eForm {
+  text-align:-webkit-center;
+}
+.fields {
+  text-align: justify;
+}
+.button {
+  margin: 14px 14px 0px 14px;
+  padding: 3px;
+}
+.downloadLink {
+  text-decoration: none;
+  color: black;
+}
+
+.printBlock {
+  background-color: #DCDCDC;
+  margin-top: 10px
+}
